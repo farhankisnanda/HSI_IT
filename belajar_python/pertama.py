@@ -1,0 +1,5 @@
+print("M. Farhan Kisnanda")
+print("M. Farhan")
+print("Kisnanda")
+print("Farhan" * 3)
+print(100)
